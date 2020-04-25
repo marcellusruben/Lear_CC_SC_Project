@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-Dies ist eine temporäre Skriptdatei.
+@author: mwinastwan
 """
 import os
 import numpy as np
