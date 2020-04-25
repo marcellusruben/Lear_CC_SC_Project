@@ -1,0 +1,90 @@
+		
+CC-SC-Definition-Input-Value		
+		
+Structure_Variants:	W206	
+Design_Level:	SWZ	
+Investigated_LoadCase:	ECE14;ECE14	
+Welding_Type:	Laser	
+Threshold_Computation_Method	Default	
+CC_Threshold_EndBeam:	0.8	
+CC_Threshold_MiddleBeam:	1	
+SC_Threshold_EndBeam:	0.7	
+SC_Threshold_MiddleBeam:	0.875	
+Regular_Threshold_EndBeam:	0.6125	
+Regular_Threshold_MiddleBeam:	0.765625	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
