@@ -18,7 +18,7 @@ This script will automatically manipulate all of the FE raw data and automatical
 
 Below is the flow on how this script works:
 <p align="center">
-  <img width="460" height="300" src="https://github.com/marcellusruben/Lear_CC_SC_Project/blob/master/Flow.png">
+  <img width="800" height="400" src="https://github.com/marcellusruben/Lear_CC_SC_Project/blob/master/Flow.png">
 </p>
 
 ## Files
